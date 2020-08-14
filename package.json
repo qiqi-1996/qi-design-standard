@@ -1,0 +1,24 @@
+{
+  "name": "qi-design-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node -r esm constructor/develop.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/qiqi-1996/qi-design-standard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-history-api-fallback": "^2.2.1"
+  }
+}
