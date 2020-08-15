@@ -12,5 +12,5 @@ if (supportLanguage.indexOf(currentLanguage) != -1) {
         }
     }
 }
-location.assign(locale);
+location.assign("#/" + locale + "/summary");
 </script>
