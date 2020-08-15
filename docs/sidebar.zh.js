@@ -4,7 +4,7 @@ var SidebarZH = [
         link: "/zh/summary"
     },
     {
-        title: "开发计划",
+        title: "项目与开发计划",
         link: "/zh/schedule"
     },
 ]

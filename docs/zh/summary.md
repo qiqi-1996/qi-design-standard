@@ -7,21 +7,3 @@ Qi Design Standard 是一个基于个人艺术喜好而制作的设计规范，�
 ## 关于贡献
 
 QIQI1996 旗下有不少开源项目，并且非常乐意接收来自开源社区的 Pull Requests。但是，由于所有的项目都是基于这个极度个人化的设计规范，并且我认为是对设计优先的偏执才造就了优秀的产品。因此，对于设计和部分功能性相关的 PR 有可能不会被接受。PR 审查相对宽松的范围有：国际化翻译、语法错误修复、BUG 修复、有明确计划的新功能等。
-
-## 资源链接
-
-### Qi Design Vue
-
-[基于 Vue 的 Web 端 UI 组件库](https://qiqii-1996.github.io/qi-design-vue)
-
-### Qi Sketch Exporter
-
-[Sketch 设计图标注导出插件](https://qiqii-1996.github.io/qi-sketch-exporter)
-
-### VSCode Rainbow Fart
-
-[VSCode 彩虹屁插件：在你编程时疯狂称赞你](https://saekiraku.github.io/vscode-rainbow-fart)
-
-### Qi Design Website
-
-[design.qiqi1996.com - 汇集了所有设计作品的图片展示](https://design.qiqi1996.com)
