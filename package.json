@@ -7,11 +7,12 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node -r esm constructor/develop.js"
+    "start": "node -r esm constructor/develop.js",
+    "check:i18n": "node -r esm scripts/check-i18n.js"
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/qiqi-1996/qi-design-standard.git"
+    "type": "git",
+    "url": "git+https://github.com/qiqi-1996/qi-design-standard.git"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,7 @@
   "devDependencies": {
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "express-history-api-fallback": "^2.2.1"
+    "express-history-api-fallback": "^2.2.1",
+    "glob": "^7.1.6"
   }
 }
