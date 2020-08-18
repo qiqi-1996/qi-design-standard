@@ -17,6 +17,15 @@ var SidebarZH = [
         ]
     },
     {
+        title: "面向开发人员",
+        children: [
+            {
+                title: "自定义配色",
+                link: "/zh/developer/customize-colors.md"
+            }
+        ]
+    },
+    {
         title: "组件样式规范",
         children: []
     },
